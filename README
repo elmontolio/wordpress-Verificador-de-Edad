@@ -1,0 +1,26 @@
+=== Verificador de edad ===
+Tags: age, verification, date of birth, dob
+Contributors: markjaquith | Traducción al español: @elmontolio
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=mark%2epaypal%40txfx%2enet&item_name=Mark%20Jaquith%20Coding&no_shipping=0&no_note=1&tax=0&currency_code=USD&charset=UTF%2d8&charset=UTF%2d8&notify_url=http%3A%2F%2Ftxfx.net%2Fphp%2Fpaypal-ipn.php
+Requires at least: 2.5
+Tested up to: 2.6
+Stable tag: trunk
+
+
+
+Este plugín le pide a los usuarios que den su fecha de nacimiento antes de entrar a tu sitio web.
+
+
+
+== Descripción ==
+
+Este plugín obliga a los usuarios a entregar una fecha de nacimiento antes de ingresar a tu sitio web. Su edad debe superar la edad entregada en la configuración del plugín. La edad del usuario será almacenada en una cookie cuya duración se puede modificar en la página de configuración del plugín. Se puede configurar también que la edad sea entregada con un menú desplegable o como texto plano. La interfaz es básica -- se espera que le des algo de CSS para que se integre con tu diseño. También se puede excluir a los usuarios registrados para que no tengan que ingresar su fecha de nacimiento.
+
+
+
+== Instalación ==
+
+1. Sube el archivo a tu directorio 'plugins'.
+2. Activa del Plugín.
+3. Configura el plugín en Plugins -> Configuración del Verificador de Edad
+4. Disfruta.
