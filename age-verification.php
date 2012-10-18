@@ -60,10 +60,10 @@ if ( !defined( 'ABSPATH' ) ) { // we're being called directly, for age verificat
  background="" >
 <tr><td><table style="float:center">
 	<head>
-		<title>     Age Verification Required</title>
+		<title>     Verifica tu edad</title>
 	</head>
 	<body><div style="margin: 70px 0px 0px 15px;">
-		<h1>Age Verification Required</h1>
+		<h1>Por favor ingresa tu fecha de nacimiento</h1>
 		<?php if ( !$_COOKIE['cws_age_verification_cookie_check'] ) : ?>
 			<p>Si bien este sitio web necesita que ingreses tu fecha de nacimiento, tu navegador no est&aacute; aceptando cookies. Por favor activa las cookies e intenta visitanos de nuevo.</p>
 
